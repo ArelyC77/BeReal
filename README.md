@@ -58,7 +58,7 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-    # Project 6 - *BeReal.*
+   # Project 6 - *BeReal.*
 
 Submitted by: **Arely Correa-Perez**
 
